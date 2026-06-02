@@ -1,17 +1,8 @@
-# Tarea XX — Nombre de la Tarea
+# Tarea 03 — Applicación Andoid con React
 
 **Asignatura:** Introducción al Desarrollo de Aplicaciones Móviles  
-**Entrega:** <!-- fecha o "Próxima clase" -->
 
----
-
-## Estudiante
-
-| Campo | Dato |
-|---|---|
-| **Nombre** | Tu Nombre Completo |
-| **Matrícula** | 2024-XXXXX |
-| **Foto de perfil ITLA Virtual** | ✅ Configurada |
+**Estudiante:** Albertson Terrero López
 
 ---
 
